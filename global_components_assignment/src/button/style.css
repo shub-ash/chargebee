@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Color variants */
+.primary {
+  background-color: #bff90b;
+  color: black;
+}
+
+.secondary {
+  background-color: #012b39;
+  color: #bff90b;
+}
+
+/* Button styles */
+.button {
+  /* Common button styles */
+  /* Add any common styles here */
+}
+
+/* Disabled button styles */
+.disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}

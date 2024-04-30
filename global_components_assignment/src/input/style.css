@@ -1,0 +1,12 @@
+/* styles.css */
+
+/* Input styles */
+.input {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #000;
+  border-width: 2px;
+  border-style: solid;
+  width: 100%;
+}

@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Checkbox container */
+.checkbox-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+/* Checkbox input */
+.checkbox-input {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #000;
+  border-width: 2px;
+  border-style: solid;
+}
+
+/* Checkbox label */
+.checkbox-label {
+  margin-left: 0.25rem;
+}

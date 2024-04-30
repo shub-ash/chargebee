@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Notification container */
+.notification {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem; /* Equivalent to text-sm in Tailwind */
+  font-weight: 500; /* Equivalent to font-medium in Tailwind */
+  color: #000; /* Equivalent to text-black in Tailwind */
+  border-radius: 0.375rem; /* Equivalent to rounded in Tailwind */
+  background: red;
+  width: fit-content;
+}
+
+/* Close icon */
+.close-icon {
+  margin-left: 0.5rem; /* Equivalent to ml-2 in Tailwind */
+  cursor: pointer;
+}
